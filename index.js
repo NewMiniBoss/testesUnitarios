@@ -3,7 +3,7 @@ function somaHorasExtras (salario, valorHorasExtras) {
  }
 
 function calculaDescontos (salario, descontos) { 
- return salario - descontos
+  return salario - descontos
  }
 
 export {
